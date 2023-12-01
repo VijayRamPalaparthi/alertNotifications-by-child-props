@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.notification-container {
+  border: 1px solid #475569;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  width: 30%;
+}

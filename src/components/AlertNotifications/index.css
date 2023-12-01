@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.body-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 35px;
+  color: #0f172a;
+}
+.notifcation {
+}
+.state1 {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+  color: #2dca73;
+  margin-top: 0px;
+}
+.state2 {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+  color: #ff0b37;
+  margin-top: 0px;
+}
+.state3 {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+  color: #ffb800;
+  margin-top: 0px;
+}
+.state4 {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+  color: #0f81e0;
+  margin-top: 0px;
+}
+.msg {
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 15px;
+  color: #64748b;
+}
+.close {
+  align-self: center;
+}
